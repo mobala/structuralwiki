@@ -9,7 +9,7 @@ header:
     - label: Seismic Design Example Problems
       url: "/posts"
 excerpt: >
-  Resources on structural engineering and preparing for the PE exam.
+  Resources to study for the California PE State Specific Seismic Exam, the NCEES Structural PE Exam, and various topics in Structural Engineering.
 feature_row:
   - image_path: /assets/images/desk.jpeg
     alt: "customizable"
