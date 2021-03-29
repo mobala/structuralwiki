@@ -1,5 +1,5 @@
 ---
-title: "Relative Rigidity - Review on Calculating Lateral Force to Shear Walls"
+title: "PE Exam Seismic Review: Relative Rigidity - Review on Calculating Lateral Force to Shear Walls"
 categories:
   - PE-Seismic-Exam
 ---

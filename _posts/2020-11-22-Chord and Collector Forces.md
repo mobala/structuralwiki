@@ -1,5 +1,5 @@
 ---
-title: "Calculating Chord and Collector Forces per ASCE 7"
+title: "PE Exam Seismic Review: Calculating Chord and Collector Forces per ASCE 7"
 categories:
   - PE-Seismic-Exam
 ---

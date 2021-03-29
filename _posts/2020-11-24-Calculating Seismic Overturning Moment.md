@@ -1,5 +1,5 @@
 ---
-title: "Calculating Seismic Overturning and Base Shear"
+title: "PE Exam Seismic Review: Calculating Seismic Overturning and Base Shear"
 categories:
   - PE-Seismic-Exam
 ---

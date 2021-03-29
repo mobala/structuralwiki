@@ -1,5 +1,5 @@
 ---
-title: "Seismic Design of Non Structural Components per ASCE 7"
+title: "PE Exam Seismic Review: Seismic Design of Non Structural Components per ASCE 7"
 categories:
   - PE-Seismic-Exam
 ---

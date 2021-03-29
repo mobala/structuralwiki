@@ -1,5 +1,5 @@
 ---
-title: "11 Questions for the PE Seismic Exam"
+title: "PE Exam Seismic Review: 11 Questions for the PE Seismic Exam"
 categories:
   - PE-Seismic-Exam
 ---

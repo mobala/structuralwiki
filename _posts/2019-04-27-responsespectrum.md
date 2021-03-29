@@ -1,5 +1,5 @@
 ---
-title: "Walkthrough of the Response Spectrum Method"
+title: "PE Exam Seismic Review: Walkthrough of the Response Spectrum Method"
 categories:
   - PE-Seismic-Exam
 ---

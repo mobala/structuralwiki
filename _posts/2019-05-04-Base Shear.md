@@ -1,5 +1,5 @@
 ---
-title: "How to Calculate Base Shear per ASCE 7"
+title: "PE Exam Seismic Review: How to Calculate Base Shear per ASCE 7"
 categories:
   - PE-Seismic-Exam
 ---
