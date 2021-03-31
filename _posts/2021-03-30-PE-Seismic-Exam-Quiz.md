@@ -8,4 +8,4 @@ categories:
 
 
 
-I created a 15 question quiz which I believe to be representative of some of he questions you might find on the California PE Seismic Exam. You can download the quiz along with a complete set of solutions here [here]({{ '/download/Seismic Design Quiz.pdf' | prepend: site.baseurl | prepend: site.url }}) 
+I created a 15 question quiz which I believe to be representative of some of he questions you might find on the California PE Seismic Exam. You can download the quiz along with a complete set of solutions [HERE]({{ '/download/Seismic Design Quiz.pdf' | prepend: site.baseurl | prepend: site.url }}).
