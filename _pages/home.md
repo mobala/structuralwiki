@@ -18,11 +18,11 @@ feature_row:
     url: "/structural-engineering/6-Years-In/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/seismic_quiz.png
+  - image_path: /assets/images/seismic_quiz_question.png
     alt: "fully responsive"
-    title: "11 Questions for the California PE Seismic Exam"
+    title: "PE Seismic Exam Practice Quiz"
     excerpt: "I made this quiz to help folks get a feel for the type of content to expect on the California State Specific Seismic Exam."
-    url: "/pe-seismic-exam/peseismicquiz/"
+    url: "/pe-seismic-exam/pe-seismic-exam-quiz/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: http://img.youtube.com/vi/IbyzPQqKDwQ/0.jpg
