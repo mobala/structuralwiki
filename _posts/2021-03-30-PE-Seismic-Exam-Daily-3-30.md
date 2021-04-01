@@ -1,5 +1,5 @@
 ---
-title: "PE Seismic Exam: 3-30-21 Daily Practice Question - Anchorage"
+title: "PE Seismic Exam: 3-30-21 Daily Practice Question - Flexible Diaphragm"
 categories:
   - PE-Seismic-Exam
 ---
