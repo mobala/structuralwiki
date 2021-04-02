@@ -1,6 +1,7 @@
 ---
 title: "The Structural Study Blog"
 permalink: /posts/
-layout: archive
+layout: collection
+collection: posts
 author_profile: true
 ---
