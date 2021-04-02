@@ -1,5 +1,5 @@
 main:
-  - title: "Posts"
+  - title: "Blog Posts"
     url: /posts/
-  # - title: "About"
-  #   url: /about/
+  - title: "Daily Seismic Problems"
+    url: /daily-seismic-problems/
