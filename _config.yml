@@ -117,3 +117,6 @@ collections:
   daily:
     output: true
     permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:path/
