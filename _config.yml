@@ -104,6 +104,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+      type: daily
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 category_archive:
   type: liquid
