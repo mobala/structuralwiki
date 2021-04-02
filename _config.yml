@@ -113,3 +113,7 @@ tag_archive:
   path: /tags/
 
 
+collections:
+  daily:
+    output: true
+    permalink: /:collection/:path/
