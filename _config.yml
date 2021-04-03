@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: structural.wiki
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Structural engineering example problems and review for the California PE State Specific Seismic Exam.
+description: Structural engineering example problems and review for the California PE State Specific Seismic Exam.
 #twitter_username: username
 #github_username: username
 minimal_mistakes_skin: mint
@@ -31,6 +30,7 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+baseurl: https://structural.wiki
 include:
   - _pages
 
@@ -128,3 +128,6 @@ collections:
   posts:
     output: true
     permalink: /:collection/:path/
+
+
+excerpt_separator: "<!--more-->"
